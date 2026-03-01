@@ -113,7 +113,7 @@ To democratize emergency medical knowledge by providing instant, reliable, and e
 ### ⚡ **Quick Installation**
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/quick-first-aid-app.git
+git clone https://github.com/Chaman4211/Quick-First-Aid.git
 
 # Navigate to project directory
 cd quick-first-aid-app
@@ -242,6 +242,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Quick First Aid App** - Making emergency medical knowledge accessible to everyone, everywhere.
 
-[Report Bug](https://github.com/yourusername/quick-first-aid-app/issues) · [Request Feature](https://github.com/yourusername/quick-first-aid-app/issues) · [View Demo](https://expo.dev/@yourusername/quick-first-aid)
+[Report Bug](https://github.com/Chaman4211/Quick-First-Aid/issues) · [Request Feature](https://github.com/Chaman4211/Quick-First-Aid/issues) · [View Demo](https://expo.dev/@Chaman4211/Quick-First-Aid)
 
 </div>
